@@ -167,8 +167,8 @@ namespace WinSMTPTest
             this.panelTop.Controls.Add(this.btnOpen);
             this.panelTop.Controls.Add(this.txtServerPort);
             this.panelTop.Controls.Add(this.lblServerPort);
-            this.panelTop.Controls.Add(this.label1);
             this.panelTop.Controls.Add(this.txtServerSMTP);
+            this.panelTop.Controls.Add(this.label1);
             this.panelTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTop.Location = new System.Drawing.Point(0, 0);
             this.panelTop.Name = "panelTop";
